@@ -1,0 +1,11 @@
+# Antigravity Files
+.agents/
+.antigravity/
+.gemini/
+
+# Temporary Design Assets
+flutter app examples files/
+
+# OS Specific Junk
+.DS_Store
+Thumbs.db
