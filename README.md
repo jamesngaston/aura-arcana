@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌌 Aura Arcana Tarot
-### Ancient Wisdom. Reimagined for the Digital Age.
+<h3 align="center">Ancient Wisdom. Reimagined for the Digital Age.</h3>
 
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev)
 [![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)](https://m3.material.io/)
@@ -63,7 +63,9 @@ Aura Arcana is designed for those who demand more from their spiritual tools.<br
 
 <br>
 
-<img src="https://img.shields.io/badge/Google_Play-Coming%20Soon-green?style=for-the-badge&logo=google-play" alt="Google Play Coming Soon">
+<a href="https://play.google.com/store/apps/details?id=com.hqmatrix.auraarcanatarot" target="_blank">
+  <img src="https://img.shields.io/badge/Google_Play-Coming%20Soon-green?style=for-the-badge&logo=google-play" alt="Google Play Coming Soon">
+</a>
 &nbsp;
 <img src="https://img.shields.io/badge/App_Store-Coming%20Soon-black?style=for-the-badge&logo=apple" alt="App Store Coming Soon">
 
