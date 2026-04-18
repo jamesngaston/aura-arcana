@@ -60,7 +60,7 @@ a:hover {
   box-shadow: 0 12px 40px 0 rgba(106, 59, 111, 0.4);
 }
 
-/* Navbar */
+
 nav {
   padding: 1.5rem 5%;
   display: flex;
@@ -117,14 +117,14 @@ nav {
   color: var(--accent-gold);
 }
 
-/* Main Container */
+
 .container {
   max-width: 1000px;
   margin: 0 auto;
   padding: 8rem 1.5rem 4rem 1.5rem;
 }
 
-/* Custom Post-Processed Structure Styles */
+
 .hero {
   text-align: center;
   padding: 2rem 0 4rem 0;
@@ -182,7 +182,7 @@ nav {
   font-size: 1.1rem !important;
 }
 
-/* Prose/Markdown Styles */
+
 .prose {
   width: 100%;
 }
@@ -271,7 +271,7 @@ nav {
   border-radius: 0 8px 8px 0;
 }
 
-/* Footer */
+
 footer {
   text-align: center;
   padding: 4rem 1.5rem;
@@ -285,7 +285,7 @@ footer p {
   color: var(--text-secondary);
 }
 
-/* Table Grid from Markdown */
+
 .prose table {
   width: 100%;
   border-collapse: separate;
@@ -308,7 +308,7 @@ footer p {
   font-size: 1.5rem;
 }
 
-/* Micro-animations */
+
 .fade-in {
   opacity: 0;
   transform: translateY(30px);
@@ -325,7 +325,7 @@ footer p {
   }
 }
 
-/* Responsive */
+
 @media (max-width: 768px) {
   .nav-links { gap: 1.5rem; }
   .container { padding-top: 7rem; }
